@@ -22,8 +22,5 @@ public class Main {
 
         System.out.println(student);
         System.out.println(univercity);
-//        for (StudyProfile studyProfile : StudyProfile.values()) {
-//            System.out.println(studyProfile.title);
-//        }
     }
 }
